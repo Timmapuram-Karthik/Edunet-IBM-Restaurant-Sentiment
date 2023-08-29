@@ -2,6 +2,12 @@
 
 This repository contains code and resources for a sentiment analysis project conducted as part of an internship with Edunet Foundation in collaboration with IBM. The project involves applying machine learning techniques to analyze sentiment in restaurant reviews and predict whether a review expresses a positive or negative sentiment.
 
+## Explore the Sentiment Analysis of Restaurant Model!
+Click below to open the project in an interactive Google Colab notebook:
+
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Timmapuram-Karthik/Edunet-IBM-Restaurant-Sentiment/blob/main/Sentimental%20Restaurant%20Review.ipynb)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
