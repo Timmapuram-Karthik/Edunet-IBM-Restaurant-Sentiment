@@ -39,9 +39,9 @@ The code within this repository encompasses the complete sentiment analysis pipe
 
 2. **Data Preprocessing**: Text data is preprocessed by converting it to lowercase, tokenizing, stemming, and removing stopwords.
 
-3. **Feature Extraction**: Text data is transformed into numerical features through TF-IDF (Term Frequency-Inverse Document Frequency) vectorization.
+3. **Feature Extraction**: Text data is transformed into numerical features through Count vectorization.
 
-4. **Model Selection and Evaluation**: Multiple machine learning models are considered for sentiment analysis, including Multinomial Naive Bayes, Logistic Regression, Random Forest, and Support Vector Classifier (SVC).
+4. **Model Selection and Evaluation**: Multiple machine learning models are considered for sentiment analysis, including Multinomial Naive Bayes, Random Forest, Gradient Boosting, XG Boost and Support Vector Classifier (SVC).
 
 5. **Best Model Identification**: The best-performing model is identified based on accuracy.
 
